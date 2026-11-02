@@ -1,0 +1,46 @@
+Fecha,Max,Min,Estado,Viento,Numero_Estado
+29-Oct,26,8,Principalmente claro,8,
+30-Oct,26,7,Parcialmente soleado y agradable,28,1.0
+31-Oct,22,7,Nuboso,22,
+01-Nov,25,7,Soleado y agradable,26,1.0
+02-Nov,27,10,"Intervalos de nubes y sol en la mañana, luego sol y algunas nubes en la tarde",28,
+03-Nov,26,8,Sol a través de algunas nubes altas,25,
+04-Nov,22,9,"Nublado, con algunos chubascos",21,
+05-Nov,23,7,Nubes y sol,26,2.0
+06-Nov,24,7,"Principalmente nublado, con posibilidad de lluvia en la tarde",24,
+07-Nov,26,7,Parcialmente soleado,29,1.0
+08-Nov,24,10,Principalmente soleado,28,1.0
+09-Nov,24,10,Parcialmente soleado,29,1.0
+10-Nov,24,10,"Bastante nublado; probabilidad de algún chubasco en la mañana, luego períodos de lluvia en la tarde",25,
+11-Nov,22,10,Bastante nublado,23,2.0
+12-Nov,23,10,Cantidad de nubes en aumento,23,2.0
+13-Nov,22,9,Varias horas de sol,28,
+14-Nov,22,9,Mucho sol,25,1.0
+15-Nov,23,11,"Claro, con sol",28,
+16-Nov,25,12,"Nubosidad variable, con chubascos y tormentas en la tarde",24,
+17-Nov,21,11,Principalmente nublado,24,
+18-Nov,23,11,Mucho sol,28,1.0
+19-Nov,25,11,Parcialmente soleado,30,1.0
+20-Nov,23,8,"Bastante nublado; posibilidad de algún chubasco en la mañana, luego posibilidad de lluvia en la tarde",23,
+21-Nov,21,8,Sol y áreas de nubosidad,23,1.0
+22-Nov,21,8,Mucho sol,25,1.0
+23-Nov,22,10,"Claro, con sol",25,
+24-Nov,26,12,Incremento de nubosidad,26,2.0
+25-Nov,26,12,Tornándose soleado,31,
+26-Nov,26,11,Nubes y sol,28,2.0
+27-Nov,22,9,Principalmente nublado; frío,22,
+28-Nov,22,9,Mucho sol,26,1.0
+29-Nov,26,11,Mucho sol,31,1.0
+30-Nov,27,13,Principalmente soleado,32,1.0
+01-Dec,25,11,Mucho sol,31,1.0
+02-Dec,26,13,Mucho sol,31,1.0
+03-Dec,26,12,Sol y áreas de nubosidad,29,1.0
+04-Dec,23,12,Principalmente nublado,24,
+05-Dec,24,13,Nublado,25,2.0
+06-Dec,26,13,Soleado,31,1.0
+07-Dec,27,13,Soleado a parcialmente nublado,32,
+08-Dec,23,13,Principalmente soleado,29,1.0
+09-Dec,24,12,Principalmente soleado,30,1.0
+10-Dec,27,12,Bastante nublado,31,2.0
+11-Dec,23,10,Un día totalmente soleado,29,1.0
+12-Dec,26,9,Un día totalmente soleado,27,1.0
